@@ -1,4 +1,4 @@
-# midiatama-pwa
+# Bageur Nuxtjs boilerplate project
 
 ## Build Setup
 
